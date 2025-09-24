@@ -1,0 +1,9 @@
+aihero/course/.python-version
+aihero/course/pyproject.toml
+aihero/course/uv.lock
+aihero/project/.python-version
+aihero/course/.ipynb_checkpoints/main-checkpoint.py
+.gitignore
+aihero/project/uv.lock
+.gitignore
+aihero/project/pyproject.toml
