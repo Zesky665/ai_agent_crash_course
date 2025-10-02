@@ -7,3 +7,5 @@ aihero/course/.ipynb_checkpoints/main-checkpoint.py
 aihero/project/uv.lock
 .gitignore
 aihero/project/pyproject.toml
+aihero/Day_2/.secrets
+aihero/Day_4/.secrets
