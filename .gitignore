@@ -10,3 +10,7 @@ aihero/project/pyproject.toml
 aihero/Day_2/.secrets
 aihero/Day_4/.secrets
 .secret
+*.json
+*.cpython-312.pyc
+.python-version
+uv.lock
